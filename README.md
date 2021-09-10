@@ -1,6 +1,6 @@
 # Renta de Autos
 
-¡Bienvenido!
+¡Welcome!
 
 ## Pre-requisitos 📋
 
