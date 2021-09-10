@@ -4,6 +4,7 @@
 
 ## Pre-requisitos 📋
 
+Tener tarjeta de credito
 
 ### Instalación 🔧
 
