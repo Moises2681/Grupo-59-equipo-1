@@ -10,9 +10,6 @@
 
 #### Notas
 
-* Recuerde que se copia el contenido de una carpeta a otra.
-* Si piensa hacerlo en equipos en red, debe compartir la(s) carpeta(s) en la red.
-
 ## Construido con 🛠️
 
 * [Atom](https://atom.io/) - Atom
