@@ -8,6 +8,8 @@ Tener tarjeta de credito
 
 ### Instalación 🔧
 
+Los programas utilizados en este proyecto son:
+* .Net
 
 #### Notas
 
