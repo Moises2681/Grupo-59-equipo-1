@@ -1,9 +1,0 @@
-D:\ProyectoRentaAutos\RentaAutos.App\RentaAutos.App.Persistencia\bin\Debug\netstandard2.0\RentaAutos.App.Persistencia.deps.json
-D:\ProyectoRentaAutos\RentaAutos.App\RentaAutos.App.Persistencia\bin\Debug\netstandard2.0\RentaAutos.App.Persistencia.dll
-D:\ProyectoRentaAutos\RentaAutos.App\RentaAutos.App.Persistencia\bin\Debug\netstandard2.0\RentaAutos.App.Persistencia.pdb
-D:\ProyectoRentaAutos\RentaAutos.App\RentaAutos.App.Persistencia\obj\Debug\netstandard2.0\RentaAutos.App.Persistencia.csprojAssemblyReference.cache
-D:\ProyectoRentaAutos\RentaAutos.App\RentaAutos.App.Persistencia\obj\Debug\netstandard2.0\RentaAutos.App.Persistencia.AssemblyInfoInputs.cache
-D:\ProyectoRentaAutos\RentaAutos.App\RentaAutos.App.Persistencia\obj\Debug\netstandard2.0\RentaAutos.App.Persistencia.AssemblyInfo.cs
-D:\ProyectoRentaAutos\RentaAutos.App\RentaAutos.App.Persistencia\obj\Debug\netstandard2.0\RentaAutos.App.Persistencia.csproj.CoreCompileInputs.cache
-D:\ProyectoRentaAutos\RentaAutos.App\RentaAutos.App.Persistencia\obj\Debug\netstandard2.0\RentaAutos.App.Persistencia.dll
-D:\ProyectoRentaAutos\RentaAutos.App\RentaAutos.App.Persistencia\obj\Debug\netstandard2.0\RentaAutos.App.Persistencia.pdb
