@@ -1,0 +1,9 @@
+D:\ProyectoRentaAutos\RentaAutos.App\RentaAutos.App.Dominio\bin\Debug\netstandard2.0\RentaAutos.App.Dominio.deps.json
+D:\ProyectoRentaAutos\RentaAutos.App\RentaAutos.App.Dominio\bin\Debug\netstandard2.0\RentaAutos.App.Dominio.dll
+D:\ProyectoRentaAutos\RentaAutos.App\RentaAutos.App.Dominio\bin\Debug\netstandard2.0\RentaAutos.App.Dominio.pdb
+D:\ProyectoRentaAutos\RentaAutos.App\RentaAutos.App.Dominio\obj\Debug\netstandard2.0\RentaAutos.App.Dominio.csprojAssemblyReference.cache
+D:\ProyectoRentaAutos\RentaAutos.App\RentaAutos.App.Dominio\obj\Debug\netstandard2.0\RentaAutos.App.Dominio.AssemblyInfoInputs.cache
+D:\ProyectoRentaAutos\RentaAutos.App\RentaAutos.App.Dominio\obj\Debug\netstandard2.0\RentaAutos.App.Dominio.AssemblyInfo.cs
+D:\ProyectoRentaAutos\RentaAutos.App\RentaAutos.App.Dominio\obj\Debug\netstandard2.0\RentaAutos.App.Dominio.csproj.CoreCompileInputs.cache
+D:\ProyectoRentaAutos\RentaAutos.App\RentaAutos.App.Dominio\obj\Debug\netstandard2.0\RentaAutos.App.Dominio.dll
+D:\ProyectoRentaAutos\RentaAutos.App\RentaAutos.App.Dominio\obj\Debug\netstandard2.0\RentaAutos.App.Dominio.pdb
