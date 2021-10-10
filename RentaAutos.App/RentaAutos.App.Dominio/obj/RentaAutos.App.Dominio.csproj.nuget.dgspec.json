@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProyectoRentaAutos\\RentaAutos.App\\RentaAutos.App.Dominio\\RentaAutos.App.Dominio.csproj": {}
+    "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Dominio\\RentaAutos.App.Dominio.csproj": {}
   },
   "projects": {
-    "D:\\ProyectoRentaAutos\\RentaAutos.App\\RentaAutos.App.Dominio\\RentaAutos.App.Dominio.csproj": {
+    "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Dominio\\RentaAutos.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProyectoRentaAutos\\RentaAutos.App\\RentaAutos.App.Dominio\\RentaAutos.App.Dominio.csproj",
+        "projectUniqueName": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Dominio\\RentaAutos.App.Dominio.csproj",
         "projectName": "RentaAutos.App.Dominio",
-        "projectPath": "D:\\ProyectoRentaAutos\\RentaAutos.App\\RentaAutos.App.Dominio\\RentaAutos.App.Dominio.csproj",
+        "projectPath": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Dominio\\RentaAutos.App.Dominio.csproj",
         "packagesPath": "C:\\Users\\mlope\\.nuget\\packages\\",
-        "outputPath": "D:\\ProyectoRentaAutos\\RentaAutos.App\\RentaAutos.App.Dominio\\obj\\",
+        "outputPath": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mlope\\AppData\\Roaming\\NuGet\\NuGet.Config"

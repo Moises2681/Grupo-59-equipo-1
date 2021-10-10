@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cPbMXum+lLVNGSYfyh51WjbLpiVkaMX3nLHbqDgZMpvhLZarYyKsTP2GIEFIxHynAIK95RedZ8PeJwVCAyHdJg==",
+  "dgSpecHash": "3kwU8W+BsmJ8ZeSa0P8yJf2Yvbbp4IjKAE0koiDjWdWUPZG4q1ngRcJ+yP5M9QC3VNbxcT+OFxp/5Cd14rseaw==",
   "success": true,
-  "projectFilePath": "D:\\ProyectoRentaAutos\\RentaAutos.App\\RentaAutos.App.Persistencia\\RentaAutos.App.Persistencia.csproj",
+  "projectFilePath": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Persistencia\\RentaAutos.App.Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mlope\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mlope\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
