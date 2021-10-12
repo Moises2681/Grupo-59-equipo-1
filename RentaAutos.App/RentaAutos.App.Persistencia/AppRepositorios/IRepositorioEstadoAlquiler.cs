@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using RentaAutos.App.Dominio.Entidades;
+using RentaAutos.App.Dominio;
 
-namespace RentaAutos.App.Persistencia.AppRepositorios
+namespace RentaAutos.App.Persistencia
 {
     public interface IRepositorioEstadoAlquiler
     {

@@ -1,6 +1,6 @@
 using System;
 
-namespace RentaAutos.App.Dominio.Entidades
+namespace RentaAutos.App.Dominio
 {
     public class FormaPago
     {
