@@ -1,8 +1,10 @@
 using System.Collections.Generic;
 using System.Linq;
-using RentaAutos.App.Dominio.Entidades;
 
-namespace RentaAutos.App.Persistencia.AppRepositorios
+using RentaAutos.App.Dominio;
+using RentaAutos.App.Persistencia;
+
+namespace RentaAutos.App.Persistencia
 {
     public class RepositorioEstadoAlquiler : IRepositorioEstadoAlquiler
     {

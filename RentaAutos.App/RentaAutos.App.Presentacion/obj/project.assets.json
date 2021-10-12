@@ -1642,11 +1642,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProyectoRentaAutos\\RentaAutos.App\\RentaAutos.App.Presentacion\\RentaAutos.App.Presentacion.csproj",
+      "projectUniqueName": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Presentacion\\RentaAutos.App.Presentacion.csproj",
       "projectName": "RentaAutos.App.Presentacion",
-      "projectPath": "D:\\ProyectoRentaAutos\\RentaAutos.App\\RentaAutos.App.Presentacion\\RentaAutos.App.Presentacion.csproj",
+      "projectPath": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Presentacion\\RentaAutos.App.Presentacion.csproj",
       "packagesPath": "C:\\Users\\mlope\\.nuget\\packages\\",
-      "outputPath": "D:\\ProyectoRentaAutos\\RentaAutos.App\\RentaAutos.App.Presentacion\\obj\\",
+      "outputPath": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Presentacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mlope\\AppData\\Roaming\\NuGet\\NuGet.Config"

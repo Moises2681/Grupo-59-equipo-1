@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using RentaAutos.App.Dominio.Entidades;
+using RentaAutos.App.Dominio;
 
-namespace RentaAutos.App.Persistencia.AppRepositorios
+namespace RentaAutos.App.Persistencia
 {
     public class AppContext : DbContext
     {
