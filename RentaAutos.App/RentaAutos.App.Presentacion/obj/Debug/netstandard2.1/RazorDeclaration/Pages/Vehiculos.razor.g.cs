@@ -84,7 +84,7 @@ using RentaAutos.App.Presentacion.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 37 "C:\Users\joano\Documents\GitHub\Grupo-59-equipo-1\RentaAutos.App\RentaAutos.App.Presentacion\Pages\Vehiculos.razor"
+#line 36 "C:\Users\joano\Documents\GitHub\Grupo-59-equipo-1\RentaAutos.App\RentaAutos.App.Presentacion\Pages\Vehiculos.razor"
        
     private WeatherForecast[] forecasts;
 

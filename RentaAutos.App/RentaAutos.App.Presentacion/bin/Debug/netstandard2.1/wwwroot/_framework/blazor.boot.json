@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "RentaAutos.App.Presentacion.dll": "sha256-PdexI+TLTIITFekVhk8WHICgURUA7jMAOHg7wgdJehg=",
+      "RentaAutos.App.Presentacion.dll": "sha256-NchV9QH2vMqshroWvX1FdLTnivB\/yJ5QLce4\/0GSkSI=",
       "System.Net.Http.Json.dll": "sha256-99dseBOagY3mzu5Y8Eqm8gRI+o8QbbCp7R2Ew9bQ+5E=",
       "System.Buffers.dll": "sha256-ZxXy75PYbzJxNfAc\/SAP1nUYm4gt1jSaOpFnBb9m85M=",
       "mscorlib.dll": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
@@ -72,7 +72,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
     },
     "pdb": {
-      "RentaAutos.App.Presentacion.pdb": "sha256-zEeP7OzXym06BDSHOpxUkI75Kes94kzqTRTAhUkAHyk="
+      "RentaAutos.App.Presentacion.pdb": "sha256-MqdEcd\/ZV1J3XidhvnauMKLDY8mxvtKvbLUEdtjOAao="
     },
     "runtime": {
       "dotnet.3.2.0.js": "sha256-mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=",

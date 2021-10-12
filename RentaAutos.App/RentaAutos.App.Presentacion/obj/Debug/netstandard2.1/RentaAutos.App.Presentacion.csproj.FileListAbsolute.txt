@@ -1197,6 +1197,6 @@ C:\Users\joano\Documents\GitHub\Grupo-59-equipo-1\RentaAutos.App\RentaAutos.App.
 C:\Users\joano\Documents\GitHub\Grupo-59-equipo-1\RentaAutos.App\RentaAutos.App.Presentacion\obj\Debug\netstandard2.1\RentaAutos.App.Presentacion.pdb
 C:\Users\joano\Documents\GitHub\Grupo-59-equipo-1\RentaAutos.App\RentaAutos.App.Presentacion\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Vehiculos.razor.g.cs
 C:\Users\joano\Documents\GitHub\Grupo-59-equipo-1\RentaAutos.App\RentaAutos.App.Presentacion\obj\Debug\netstandard2.1\Razor\Pages\Vehiculos.razor.g.cs
-C:\Users\joano\Documents\GitHub\Grupo-59-equipo-1\RentaAutos.App\RentaAutos.App.Presentacion\obj\Debug\netstandard2.1\integrity\PdexI_TLTIITFekVhk8WHICgURUA7jMAOHg7wgdJehg=.hash
-C:\Users\joano\Documents\GitHub\Grupo-59-equipo-1\RentaAutos.App\RentaAutos.App.Presentacion\obj\Debug\netstandard2.1\integrity\zEeP7OzXym06BDSHOpxUkI75Kes94kzqTRTAhUkAHyk=.hash
-C:\Users\joano\Documents\GitHub\Grupo-59-equipo-1\RentaAutos.App\RentaAutos.App.Presentacion\obj\Debug\netstandard2.1\integrity\yxNSZPS2B1vMY_JLf42-H-iOmM1JUyJbF3TyG5cguZQ=.hash
+C:\Users\joano\Documents\GitHub\Grupo-59-equipo-1\RentaAutos.App\RentaAutos.App.Presentacion\obj\Debug\netstandard2.1\integrity\NchV9QH2vMqshroWvX1FdLTnivB-yJ5QLce4-0GSkSI=.hash
+C:\Users\joano\Documents\GitHub\Grupo-59-equipo-1\RentaAutos.App\RentaAutos.App.Presentacion\obj\Debug\netstandard2.1\integrity\MqdEcd-ZV1J3XidhvnauMKLDY8mxvtKvbLUEdtjOAao=.hash
+C:\Users\joano\Documents\GitHub\Grupo-59-equipo-1\RentaAutos.App\RentaAutos.App.Presentacion\obj\Debug\netstandard2.1\integrity\cAYRIxRUfUA2vEWtIcCE7WDIzMpZxh0g8nf_XkN_6iU=.hash

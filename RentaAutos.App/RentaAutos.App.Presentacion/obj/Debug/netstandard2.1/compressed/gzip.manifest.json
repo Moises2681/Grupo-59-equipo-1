@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\PdexI_TLTIITFekVhk8WHICgURUA7jMAOHg7wgdJehg=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\NchV9QH2vMqshroWvX1FdLTnivB-yJ5QLce4-0GSkSI=.hash",
       "Source": "C:\\Users\\joano\\Documents\\GitHub\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Presentacion\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\RentaAutos.App.Presentacion.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/RentaAutos.App.Presentacion.dll.gz"
     },
@@ -321,7 +321,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\zEeP7OzXym06BDSHOpxUkI75Kes94kzqTRTAhUkAHyk=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\MqdEcd-ZV1J3XidhvnauMKLDY8mxvtKvbLUEdtjOAao=.hash",
       "Source": "C:\\Users\\joano\\Documents\\GitHub\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Presentacion\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\RentaAutos.App.Presentacion.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/RentaAutos.App.Presentacion.pdb.gz"
     },
@@ -346,7 +346,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\yxNSZPS2B1vMY_JLf42-H-iOmM1JUyJbF3TyG5cguZQ=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\cAYRIxRUfUA2vEWtIcCE7WDIzMpZxh0g8nf_XkN_6iU=.hash",
       "Source": "C:\\Users\\joano\\Documents\\GitHub\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Presentacion\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     }

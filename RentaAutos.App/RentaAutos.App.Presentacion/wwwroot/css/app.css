@@ -46,13 +46,14 @@ app {
     text-overflow: ellipsis;
 }
 
+.logo {
+    width: 190px;
+    object-fit: contain;
+}
+
 .sidebar {
     background: #07173b;
 }
-
-    .sidebar .top-row {
-        background-color: rgba(0,0,0,0.4);
-    }
 
     .sidebar .navbar-brand {
         font-size: 1.1rem;
