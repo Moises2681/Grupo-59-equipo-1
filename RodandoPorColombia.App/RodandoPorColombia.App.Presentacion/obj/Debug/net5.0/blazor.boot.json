@@ -195,11 +195,11 @@
       "mscorlib.dll": "sha256-7WjHY56PbksCp7YOxNV59r6MqLujjAH8vhnMJ+zVezY=",
       "netstandard.dll": "sha256-5TcSqPhm3fAT6s3NH7+BMGakcfGgZGd3\/\/cVwVs2VPI=",
       "System.Private.CoreLib.dll": "sha256-VJv3DLM\/G0m\/RnTeWL9X8mkbxlsn8nNRhm0BHYEY+uo=",
-      "RodandoPorColombia.App.Presentacion.dll": "sha256-xfAjssS13M3F67TJJZYmQNdJ+1PG7FqrCytgnhFxdmw="
+      "RodandoPorColombia.App.Presentacion.dll": "sha256-oVrl0rqIXNJ7fBidGERcsrRl6tOCWZ1mdSOes5+alZo="
     },
     "lazyAssembly": null,
     "pdb": {
-      "RodandoPorColombia.App.Presentacion.pdb": "sha256-wTpW8kFCFsztVihh7633aJbwij6xBKnJ5Z5Dr9QSdn0="
+      "RodandoPorColombia.App.Presentacion.pdb": "sha256-TjAgolPgJhebsiYLqtng4xkIRzEhf5Epa\/Sco3F4HAY="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-PvlHrby1PYtdX46ITs6pB8iDNqXNcewh8Eoa\/Gm2+GM=",

@@ -1,15 +1,17 @@
-# Renta de Autos
+# Rodando por Colombia
 
-¡Welcome!
+¡Bienvenidos!
 
 ## Pre-requisitos 📋
 
-Tener tarjeta de credito
+Los programas utilizados en este proyecto son:
+* .Net 5.0
+* Visual Studio Code
 
 ### Instalación 🔧
 
-Los programas utilizados en este proyecto son:
-* .Net
+Extensiones para Visual Studio Code:
+* C#
 
 #### Notas
 
@@ -25,7 +27,3 @@ Los programas utilizados en este proyecto son:
 * **Sebastián Sanabria** - 💻 [Github](https://github.com/Sebas2329)
 * **Danilo Bernal** - 💻 [Github](https://github.com/Killdan)­­
 * **Laura Arias** - 💻 [Github](https://github.com/LauraArias21)­­
-
-### Gracias 🎁
-
-* 🤓 Gracias a [Villanuevand](https://github.com/Villanuevand) por facilitar esta plantilla de README 😊.
