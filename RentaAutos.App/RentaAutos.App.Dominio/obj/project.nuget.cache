@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "bZma8N1rTtgxcl4AP4SJYt4eSaL3bV8WEiZV8ER18iTTAterR1bX9ogs+Qjh7ia3Gvr5gbU880DxMlYcNX0KNQ==",
+  "dgSpecHash": "Wl6c1jwe0U/HbA1ZzNxxGNpzGW/zAei+Gpm1PyZFo92nlC7f5t7VUGRcho6bP4p5wvGzSDd1M/gQMZAoGBlvRw==",
   "success": true,
-  "projectFilePath": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Dominio\\RentaAutos.App.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\joano\\Documents\\GitHub\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Dominio\\RentaAutos.App.Dominio.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\mlope\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\mlope\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\joano\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\joano\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

@@ -22,3 +22,16 @@ D:\MISION TIC 2022\TERCER CICLO\DESARROLLO DE SOFTWARE C3\Repositorio renta de a
 D:\MISION TIC 2022\TERCER CICLO\DESARROLLO DE SOFTWARE C3\Repositorio renta de autos\Grupo-59-equipo-1\RentaAutos.App\RentaAutos.App.Persistencia\bin\Debug\netstandard2.1\RentaAutos.App.Dominio.dll
 D:\MISION TIC 2022\TERCER CICLO\DESARROLLO DE SOFTWARE C3\Repositorio renta de autos\Grupo-59-equipo-1\RentaAutos.App\RentaAutos.App.Persistencia\bin\Debug\netstandard2.1\RentaAutos.App.Dominio.pdb
 D:\MISION TIC 2022\TERCER CICLO\DESARROLLO DE SOFTWARE C3\Repositorio renta de autos\Grupo-59-equipo-1\RentaAutos.App\RentaAutos.App.Persistencia\obj\Debug\netstandard2.1\RentaAutos.App.Persistencia.csproj.CopyComplete
+C:\Users\joano\Documents\GitHub\Grupo-59-equipo-1\RentaAutos.App\RentaAutos.App.Persistencia\bin\Debug\netstandard2.1\RentaAutos.App.Persistencia.deps.json
+C:\Users\joano\Documents\GitHub\Grupo-59-equipo-1\RentaAutos.App\RentaAutos.App.Persistencia\bin\Debug\netstandard2.1\RentaAutos.App.Persistencia.dll
+C:\Users\joano\Documents\GitHub\Grupo-59-equipo-1\RentaAutos.App\RentaAutos.App.Persistencia\bin\Debug\netstandard2.1\RentaAutos.App.Persistencia.pdb
+C:\Users\joano\Documents\GitHub\Grupo-59-equipo-1\RentaAutos.App\RentaAutos.App.Persistencia\bin\Debug\netstandard2.1\RentaAutos.App.Dominio.dll
+C:\Users\joano\Documents\GitHub\Grupo-59-equipo-1\RentaAutos.App\RentaAutos.App.Persistencia\bin\Debug\netstandard2.1\RentaAutos.App.Dominio.pdb
+C:\Users\joano\Documents\GitHub\Grupo-59-equipo-1\RentaAutos.App\RentaAutos.App.Persistencia\obj\Debug\netstandard2.1\RentaAutos.App.Persistencia.csproj.AssemblyReference.cache
+C:\Users\joano\Documents\GitHub\Grupo-59-equipo-1\RentaAutos.App\RentaAutos.App.Persistencia\obj\Debug\netstandard2.1\RentaAutos.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joano\Documents\GitHub\Grupo-59-equipo-1\RentaAutos.App\RentaAutos.App.Persistencia\obj\Debug\netstandard2.1\RentaAutos.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\joano\Documents\GitHub\Grupo-59-equipo-1\RentaAutos.App\RentaAutos.App.Persistencia\obj\Debug\netstandard2.1\RentaAutos.App.Persistencia.AssemblyInfo.cs
+C:\Users\joano\Documents\GitHub\Grupo-59-equipo-1\RentaAutos.App\RentaAutos.App.Persistencia\obj\Debug\netstandard2.1\RentaAutos.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\joano\Documents\GitHub\Grupo-59-equipo-1\RentaAutos.App\RentaAutos.App.Persistencia\obj\Debug\netstandard2.1\RentaAutos.App.Persistencia.csproj.CopyComplete
+C:\Users\joano\Documents\GitHub\Grupo-59-equipo-1\RentaAutos.App\RentaAutos.App.Persistencia\obj\Debug\netstandard2.1\RentaAutos.App.Persistencia.dll
+C:\Users\joano\Documents\GitHub\Grupo-59-equipo-1\RentaAutos.App\RentaAutos.App.Persistencia\obj\Debug\netstandard2.1\RentaAutos.App.Persistencia.pdb
