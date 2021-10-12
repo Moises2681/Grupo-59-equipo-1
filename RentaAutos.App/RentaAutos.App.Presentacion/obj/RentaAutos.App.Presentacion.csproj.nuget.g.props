@@ -20,6 +20,7 @@
     <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.components.webassembly.build\3.2.1\build\netstandard1.0\Microsoft.AspNetCore.Components.WebAssembly.Build.props" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.components.webassembly.build\3.2.1\build\netstandard1.0\Microsoft.AspNetCore.Components.WebAssembly.Build.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgNewtonsoft_Json Condition=" '$(PkgNewtonsoft_Json)' == '' ">C:\Users\mlope\.nuget\packages\newtonsoft.json\10.0.1</PkgNewtonsoft_Json>
     <PkgMicrosoft_AspNetCore_Components_WebAssembly_Runtime Condition=" '$(PkgMicrosoft_AspNetCore_Components_WebAssembly_Runtime)' == '' ">C:\Users\mlope\.nuget\packages\microsoft.aspnetcore.components.webassembly.runtime\3.2.0</PkgMicrosoft_AspNetCore_Components_WebAssembly_Runtime>
     <PkgMicrosoft_AspNetCore_Components_WebAssembly_DevServer Condition=" '$(PkgMicrosoft_AspNetCore_Components_WebAssembly_DevServer)' == '' ">C:\Users\mlope\.nuget\packages\microsoft.aspnetcore.components.webassembly.devserver\3.2.1</PkgMicrosoft_AspNetCore_Components_WebAssembly_DevServer>
     <PkgMicrosoft_AspNetCore_Components_WebAssembly_Build Condition=" '$(PkgMicrosoft_AspNetCore_Components_WebAssembly_Build)' == '' ">C:\Users\mlope\.nuget\packages\microsoft.aspnetcore.components.webassembly.build\3.2.1</PkgMicrosoft_AspNetCore_Components_WebAssembly_Build>

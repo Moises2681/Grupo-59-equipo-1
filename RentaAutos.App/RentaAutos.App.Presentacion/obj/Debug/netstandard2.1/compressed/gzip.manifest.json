@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\5yzl4Ietj4_XQQs8LVVUVs-nVbWRi_ms1LW3wALIIe4=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\cmMl_kaXBdUG-ZTGLmCdzrz8N5AnY0d4qzakhYY-CdI=.hash",
       "Source": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Presentacion\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\RentaAutos.App.Presentacion.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/RentaAutos.App.Presentacion.dll.gz"
     },
@@ -156,7 +156,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Encodings.Web.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Bs1Wrmh4ex9dTEIT0yCRF52N-wOmsBDt457BHr0-ssM=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\D9y5RXbA-sEzwk6cnGbGMKQv87bvOEEVycrLUTe0lGU=.hash",
       "Source": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Presentacion\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz"
     },
@@ -186,7 +186,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\6gJMwefpsWLHWsEipZp143xn8k2Ea27upnXqjUT6iNI=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\9UNtwDMFW86VtnTtJFk9xcc1hCnXFGXccFv3SkbgYy0=.hash",
       "Source": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Presentacion\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Logging.Abstractions.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.gz"
     },
@@ -196,12 +196,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\oK1Bjv95fH_hSbogUkJE_xDAI203kJG6lL6Sm-NuPWg=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\UiXX0O1HvBOTrqIzTJ6yXjt4tuRnjCCZmgIMwfFeSv8=.hash",
       "Source": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Presentacion\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.DependencyInjection.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\y-FyJQOcW2TOcTp7Iuv8brGBzL5ZP0oJdG7ysK_gtKc=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\_ndfoM_E5BiPTTXbGE3QqnnebiwNAoBsTciG_3_cHUA=.hash",
       "Source": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Presentacion\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Primitives.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Primitives.dll.gz"
     },
@@ -211,7 +211,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\2jNkt--JGfoqWNB8whRdJotnsanWbH3FfxZWz0gyLTs=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\NYecKM0ZpUvzj4spvgi6xUu80rkx8PX7fiRok-BNaHw=.hash",
       "Source": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Presentacion\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Configuration.Abstractions.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Abstractions.dll.gz"
     },
@@ -241,12 +241,72 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.FileProviders.Abstractions.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\_kkwUt5LUrFrnFcHiSvLP3Ps50UAimB6C5utgehqOo4=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\VlsKv5zXgdK0MrYHXr9XlUCXwuwNI7AUI-C1PEFXcz4=.hash",
       "Source": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Presentacion\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Logging.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\gQq6HsU4CxB8AtlbnnxlWbog4gqceUet3x6dp6AO33g=.hash",
+      "Source": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Presentacion\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Diagnostics.DiagnosticSource.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Diagnostics.DiagnosticSource.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\1FBfAreOfbXDp0WA294BCrk0EIa5ZqlghOuvDlqFtk8=.hash",
+      "Source": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Presentacion\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Runtime.Extensions.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.Extensions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\vrQresrQjYlvmLF1TcQFTDnoyCPKWUc39vSvo5EfwmQ=.hash",
+      "Source": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Presentacion\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.AppContext.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.AppContext.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\XAnEkn2DkDU-Xn588HKF6xZ5f3g9Eyzmw3DjEGtn2lM=.hash",
+      "Source": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Presentacion\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Runtime.InteropServices.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.InteropServices.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\tFMMNru1KjM9tY0dph3potA-qlmOtgZOwHLp_imUF7Y=.hash",
+      "Source": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Presentacion\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Diagnostics.Debug.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Diagnostics.Debug.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\mzuLugvmIOgYjOk4f3eQas5TIH2wER7oBvjOd1j22ps=.hash",
+      "Source": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Presentacion\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Threading.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Threading.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\8Q_uKcqkDjFjcXfcYU073dQlKb5IRta-UHFtV3Tjz9s=.hash",
+      "Source": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Presentacion\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Reflection.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Reflection.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\zWDzFtXZzC_KLMGVRm7c4nLj3X7VnzT9SMdxCVqb3dE=.hash",
+      "Source": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Presentacion\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Collections.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Collections.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Pts2S7BakHY8LACDy5I26bdgF2CrhSoTCirY4R-_sBE=.hash",
+      "Source": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Presentacion\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Collections.Concurrent.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Collections.Concurrent.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\g3D7CEj2L0Qctx7Es-Pvvvauld0RQjyo76PPB99L9Qk=.hash",
+      "Source": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Presentacion\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Diagnostics.Tracing.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Diagnostics.Tracing.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\U4q43ZeuBEBaCygKJwr18fjDYwnFv22MHuvMVqnpNzI=.hash",
+      "Source": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Presentacion\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Resources.ResourceManager.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Resources.ResourceManager.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\6CpyRQAYrVPJfNYBKH0K9lWX_rNPO15lwNhGHPmvxtk=.hash",
+      "Source": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Presentacion\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Runtime.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\XMbWzSbWz38yBXaSo6e8kAgk2oM6rEjZoZYJBkMR37Q=.hash",
       "Source": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Presentacion\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Options.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Options.dll.gz"
     },
@@ -261,7 +321,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Ck-bS-Ck850-gW3_7mSi3ohx2wwRtAOCIBazxY4u0SY=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Y8cTAMoUJG-yLpRmmVNN-he4QaRIQTRpP9QS1P0JxYY=.hash",
       "Source": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Presentacion\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\RentaAutos.App.Presentacion.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/RentaAutos.App.Presentacion.pdb.gz"
     },
@@ -286,7 +346,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\qFDweTW4S6_H6HtjRSelFb2Lh39T5MD_GZc3_pFH7z8=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\NLJRHv4cX86C_3wqqkCR83iWgzW2Z-Bgin533knxgs8=.hash",
       "Source": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Presentacion\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     }
