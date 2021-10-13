@@ -5,7 +5,7 @@ html, body {
 }
 
 a, .btn-link {
-    color: #0366d6;
+    color: white;
 }
 
 .btn-primary {
@@ -51,7 +51,8 @@ app {
     object-fit: contain;
 }
 
-.sidebar {
+.sidebar,
+.fondo {
     background: #07173b;
 }
 

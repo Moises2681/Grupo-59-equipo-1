@@ -7263,31 +7263,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mlope\\.nuget\\packages\\": {}
+    "C:\\Users\\joano\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Persistencia\\RentaAutos.App.Persistencia.csproj",
+      "projectUniqueName": "C:\\Users\\joano\\Documents\\GitHub\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Persistencia\\RentaAutos.App.Persistencia.csproj",
       "projectName": "RentaAutos.App.Persistencia",
-      "projectPath": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Persistencia\\RentaAutos.App.Persistencia.csproj",
-      "packagesPath": "C:\\Users\\mlope\\.nuget\\packages\\",
-      "outputPath": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Persistencia\\obj\\",
+      "projectPath": "C:\\Users\\joano\\Documents\\GitHub\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Persistencia\\RentaAutos.App.Persistencia.csproj",
+      "packagesPath": "C:\\Users\\joano\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\joano\\Documents\\GitHub\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mlope\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\joano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Dominio\\RentaAutos.App.Dominio.csproj": {
-              "projectPath": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Dominio\\RentaAutos.App.Dominio.csproj"
+            "C:\\Users\\joano\\Documents\\GitHub\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Dominio\\RentaAutos.App.Dominio.csproj": {
+              "projectPath": "C:\\Users\\joano\\Documents\\GitHub\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Dominio\\RentaAutos.App.Dominio.csproj"
             }
           }
         }
@@ -7300,6 +7303,7 @@
     },
     "frameworks": {
       "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
@@ -7337,7 +7341,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
