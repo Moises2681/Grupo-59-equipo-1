@@ -21,7 +21,7 @@ namespace RentaAutos.App.Persistencia
             if (!optionsBuilder.IsConfigured)
             {
                 optionsBuilder
-               .UseSqlServer("Data Source = (localdb)\\MSSQLLocalDB; Initial Catalog =RentaAutos.App");
+               .UseSqlServer("Data Source = (localdb)\\DESKTOP-RB8OF93; Initial Catalog =RentaAutos.App");
             }
         }
 

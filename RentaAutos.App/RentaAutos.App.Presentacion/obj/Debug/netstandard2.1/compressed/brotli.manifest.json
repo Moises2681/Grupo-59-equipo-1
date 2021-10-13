@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\RG2fwll3jCGUiMPoAdXKkukSGQUjesTdJkf1is1Es1Q=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Lg_1aFPMZEf6z6DLa6IBmLoSI8s9wlSvsHymPaEAhY8=.hash",
       "Source": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Presentacion\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\RentaAutos.App.Presentacion.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/RentaAutos.App.Presentacion.dll.br"
     },
@@ -321,7 +321,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Njf6rca4UZWcwXXx4myfy4LleAcLyxQLDFp0aGCiz18=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ooGaKSd8BVvyTHQvCvLQsdUezLQkH7E-RtuBjFFhrNs=.hash",
       "Source": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Presentacion\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\RentaAutos.App.Presentacion.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/RentaAutos.App.Presentacion.pdb.br"
     },
@@ -346,7 +346,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\k2ONgvww1f4vPiRNNGE8euQlSPHijHAU9EecSIoE9RY=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\XSrhzrg_nXiyOxu81f6v20Kc_E94LXqEYzxDlJ-2vf0=.hash",
       "Source": "D:\\MISION TIC 2022\\TERCER CICLO\\DESARROLLO DE SOFTWARE C3\\Repositorio renta de autos\\Grupo-59-equipo-1\\RentaAutos.App\\RentaAutos.App.Presentacion\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     }
